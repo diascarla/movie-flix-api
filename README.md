@@ -29,14 +29,16 @@ Para esse projeto foi utilizado um banco de dados SQL. Desenvolvida anteriorment
 
 
 ## Ferramentas Utilizadas 🛠️
-- **Node**: Biblioteca para criar interfaces de usuário dinâmicas e reativas.
-- **Express**: Para rotas.
+- **Node**: Ambiente de execução JavaScript de código aberto e multiplataforma.
+- **Express**: Para riação de rotas.Framework para Node.js, utilizado para construir servidores web e APIs
 - **Vite**: Ferramenta de construção para desenvolvimento front-end rápido e otimizado.
-- **TypeScript**: .
+- **TypeScript**: Linguagem de código aberto desenvolvida.
 - **Biblioteca TSX**: Para conversão do código TS em JS.
 - **Eslint**: Ajuda a deixar o código mais padronizado.
-- **Swagger**: Para documentação e endpoints.
-- **Prisma**:
+- **Swagger**: Conjunto de ferramentas de código aberto que facilitam a criação, documentação e visualização de APIs REST.
+- **Prisma**: Object-Relational Mapper (ORM) moderno e intuitivo, que facilita a interação com bancos de dados em aplicações Node.js e TypeScript.
+- **Docker**: Plataforma de código aberto que permite desenvolver, enviar e executar aplicações em contêineres.
+- **Prettier**: Formatador de código opinativo.
 
 ## Passo a Passo para Rodar o Projeto 🚀
 
@@ -63,12 +65,5 @@ Para esse projeto foi utilizado um banco de dados SQL. Desenvolvida anteriorment
 5. **Acesse no navegador:**
    Abra o navegador e vá para `http://localhost:5173`.
 
-## Estrutura do Projeto 🗂️
-- **src/**: Contém o código-fonte principal da aplicação.
-    - **assets/**: Arquivos estáticos, como imagens.
-    - **components/**: Componentes reutilizáveis, como `Header`, `button`, e `Card`.
-    - **contexts/**: Contextos para gerenciamento de estado, como tema.
-    - **pages**: Contendo as rotas.
-    - **style**: Contém o reset global.
 ## Técnologias utilizadas
-[![My Skills](https://skillicons.dev/icons?i=js,html,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,typescript)](https://skillicons.dev)
