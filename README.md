@@ -40,30 +40,5 @@ Para esse projeto foi utilizado um banco de dados SQL. Desenvolvida anteriorment
 - **Docker**: Plataforma de código aberto que permite desenvolver, enviar e executar aplicações em contêineres.
 - **Prettier**: Formatador de código opinativo.
 
-## Passo a Passo para Rodar o Projeto 🚀
-
-1. **Clone o repositório:**
-   ```bash
-   git clone <url-do-repositorio>
-   ```
-
-2. **Acesse o diretório do projeto:**
-   ```bash
-   cd nome-do-projeto
-   ```
-
-3. **Instale as dependências:**
-   ```bash
-   npm install
-   ```
-
-4. **Inicie o servidor de desenvolvimento:**
-   ```bash
-   npm run dev
-   ```
-
-5. **Acesse no navegador:**
-   Abra o navegador e vá para `http://localhost:5173`.
-
 ## Técnologias utilizadas
 [![My Skills](https://skillicons.dev/icons?i=js,html,typescript)](https://skillicons.dev)
