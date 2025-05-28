@@ -13,7 +13,7 @@ Para esse projeto foi utilizado um banco de dados SQL. Desenvolvida anteriorment
 - Linguagem;
 - Gênero;
 - Data de lançamento;
-- Quantidade de oscars ganho.
+- Quantidade de oscars ganhos.
 
 ## Requisítos Funcionais
 
